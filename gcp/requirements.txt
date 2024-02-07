@@ -1,0 +1,8 @@
+tensorflow
+Pillow==6.0.0
+flask == 2.0.0
+flask_cors
+functions-framework==3.0.0
+google-cloud-functions==1.16.0
+werkzeug==2.0.2
+google-cloud-storage==2.14.0

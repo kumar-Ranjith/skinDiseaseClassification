@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/skinDiseaseClassification/static/css/main.71d072cd.css",
+    "main.js": "/skinDiseaseClassification/static/js/main.92402cc3.js",
+    "static/js/592.ceb105bd.chunk.js": "/skinDiseaseClassification/static/js/592.ceb105bd.chunk.js",
+    "static/media/bp.png": "/skinDiseaseClassification/static/media/bp.e1c3fd46487610955418.png",
+    "index.html": "/skinDiseaseClassification/index.html",
+    "main.71d072cd.css.map": "/skinDiseaseClassification/static/css/main.71d072cd.css.map",
+    "main.92402cc3.js.map": "/skinDiseaseClassification/static/js/main.92402cc3.js.map",
+    "592.ceb105bd.chunk.js.map": "/skinDiseaseClassification/static/js/592.ceb105bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d072cd.css",
+    "static/js/main.92402cc3.js"
+  ]
+}
